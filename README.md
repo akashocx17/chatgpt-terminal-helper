@@ -20,6 +20,8 @@ pip3 install openai colorama
 
 ## How to Add script to Executable Files
 Create s folder in home directory and move the script in it;for instance, **/Users/JohnDoe/scripts/helper.py**
+
+Add the below in .zshrc or .bashrc
 ```
 export PATH="$PATH:dir/helper.py"
 
