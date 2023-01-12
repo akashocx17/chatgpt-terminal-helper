@@ -16,3 +16,11 @@ pip3 install openai colorama
 ```
 
 **YouTube Video Link:** [ChatGPT Video](https://youtu.be/QVYFLRzgPJY)
+
+
+## How to Add script to Executable Files
+Create s folder in home directory and move the script in it;for instance, **/Users/JohnDoe/scripts/helper.py**
+```
+export PATH="$PATH:dir/helper.py"
+
+```
