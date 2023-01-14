@@ -23,6 +23,6 @@ Create s folder in home directory and move the script in it;for instance, **/Use
 
 Add the below in .zshrc or .bashrc
 ```
-export PATH="$PATH:dir/helper.py"
+export PATH="$PATH:dir/scripts"
 
 ```
